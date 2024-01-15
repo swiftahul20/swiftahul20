@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @swiftahul20
-- 👀 I’m interested in Frontend Web Developer
+- 👀 I’m a Frontend Web Developer
 - 🌱 I’m currently learning to become a Fullstack Developer
 
 
