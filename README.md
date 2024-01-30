@@ -15,7 +15,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Figma-_?style=flat-square&logo=figma&logoColor=white&color=figma)
 
-#### Personal project that I am working on now
+#### Project that I am working on now
 
 - [Movflix-app](https://github.com/swiftahul20/react-movflix-app)
 
